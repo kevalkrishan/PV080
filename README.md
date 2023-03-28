@@ -16,4 +16,4 @@ Install the required Python libraries:
 
 ## Contributing
 
-Contributions to this repository are welcome. If you would like to contribute, please fork the repository, make your changes, and submit a pull request.
+Contributions to this repository are welcome.If you would like to contribute,please fork the repository, make your changes, and submit a pull request.
